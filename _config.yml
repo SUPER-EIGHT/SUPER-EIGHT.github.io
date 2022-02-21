@@ -6,21 +6,14 @@ description: > # this means to ignore newlines until another tag
 favicon: favicon.png
 navlinks:
     -
-        text: Home
+        text: inicio
         url: /
         internal: True
     -
-        text: The Theme
-        url: /theme
-        internal: True
-    -
-        text: Github
-        url: https://www.github.com/ezrasavard
+        text: Instagram
+        url: https://www.instagram.com/beny_rodsot/
         internal: False
-    -
-        text: LinkedIn
-        url: https://www.linkedin.com/in/ezrasavard
-        internal: False
+    
 
 # Build settings
 paginate: 3
